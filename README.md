@@ -30,3 +30,17 @@ We collected the following information for each researcher:
 * Co-authors' names (DeepSeek R1)
 * Co-authors' names (Llama 4 Scout)
 * Co-authors' names (Mixtral)
+
+## Citation
+
+If you use our dataset or analysis code in your work, please cite our paper as below.
+
+```
+@article{kalhor2025remembering,
+  author    = {Kalhor, Ghazal and Mashhadi, Afra},
+  title     = {Remembering Unequally: Global and Disciplinary Bias in LLM-Generated Co-Authorship Networks},
+  journal   = {EPJ Data Science},
+  year      = {2025},
+  note      = {Under review}
+}
+```
