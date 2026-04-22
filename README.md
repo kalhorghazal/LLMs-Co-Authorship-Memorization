@@ -40,10 +40,11 @@ If you use our dataset or analysis code in your work, please cite our paper as b
 ```
 @article{kalhor2026remembering,
   author    = {Kalhor, Ghazal and Mashhadi, Afra},
-  title     = {Remembering Unequally: Global and Disciplinary Bias in LLM-Generated Co-Authorship Networks},
+  title     = {Remembering Unequally: Global and Disciplinary Bias in {LLM} Reconstruction of Scholarly Coauthor Lists},
   journal   = {EPJ Data Science},
+  volume    = {15},
+  pages     = {38},
   year      = {2026},
-  note      = {Accepted for publication},
-  doi       = {https://doi.org/10.1140/epjds/s13688-026-00647-0}
+  doi       = {10.1140/epjds/s13688-026-00647-0}
 }
 ```
